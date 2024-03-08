@@ -2,6 +2,9 @@
 
 - Create Reacy App
 - Configured TailwindCSS
+- Header
+- Login Form
+- Sign up form
 
 # Features
 
