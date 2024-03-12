@@ -33,6 +33,12 @@
 - Embedded the youTube video and make it autoplay and mute
 - Tailwind classes to make main container look awesome
 - Build secondary component
+- build movie list
+- build movie card
+- TMDB image CDN url
+- made browser page look good with tailwind css
+- custom hooks for fetching different type of movies
+
 
 # Features
 
