@@ -41,6 +41,7 @@
 - GPT search page
 - GPT search bar
 - (BONUS) Multi-language feature in our app
+- integrate GPT APIs(get openai key)
 
 
 # Features
